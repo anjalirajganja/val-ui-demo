@@ -15,6 +15,7 @@ const gifs = [
 const yesGif = "./asset/giphy.gif";
 
 
+
 // Side messages for NO clicks
 const sideMessages = [
   "No? 😳",
