@@ -12,7 +12,8 @@ const gifs = [
 ];
 
 // YES-click GIF (local file in your assets folder)
-const yesGif = "assets/giphy.gif";
+const yesGif = "./asset/giphy.gif";
+
 
 // Side messages for NO clicks
 const sideMessages = [
